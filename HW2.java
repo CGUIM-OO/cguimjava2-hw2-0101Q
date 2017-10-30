@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 /*
  * ID: B0544145
- * Name: CaoJeiNi
+ * Name: ±ä¼ä©g
  * Try to write some comments for your codes (methods, 15 points)
  */
 public class HW2 {
